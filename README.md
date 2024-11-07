@@ -5,10 +5,8 @@
 
 项目展示视频：
 
-<video src="./src/preview.mp4" />
-![video](https://github.com/ryan6073/WhatToEat-AIScreen/src/preview.mp4)
-
+[![Watch the demo video](https://img.youtube.com/vi/YDY-QmgF8tQ/0.jpg)](https://www.youtube.com/watch?v=YDY-QmgF8tQ)
 
 
 目前已经获得CCVR省一，之后打算利用RAG增强大模型的AI垂直能力。
->>>>>>> 68f807d (Initial commit with video tracked by LFS)
+
