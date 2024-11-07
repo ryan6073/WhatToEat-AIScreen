@@ -6,6 +6,7 @@
 项目展示视频：
 
 <video src="./src/preview.mp4" />
+![video](https://github.com/ryan6073/WhatToEat-AIScreen/src/preview.mp4)
 
 
 
