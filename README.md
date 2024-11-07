@@ -5,7 +5,7 @@
 
 项目展示视频：
 
-<video src="src/preview.mp4" />
+<video src="./src/preview.mp4" />
 
 
 
